@@ -1,0 +1,22 @@
+{
+  "name": "DS-BT-Labs",
+  "owner": {
+    "name": "BT Lab",
+    "email": "dominik.visek@digital.cz"
+  },
+  "metadata": {
+    "description": "AI skills by BT Lab — documentation generation and codebase analysis"
+  },
+  "plugins": [
+    {
+      "name": "bt-lab",
+      "source": ".",
+      "description": "Documentation generation, codebase analysis, and vault maintenance for Claude Code",
+      "version": "1.0.0",
+      "author": { "name": "BT Lab" },
+      "repository": "https://github.com/DS-BT-Labs/skills",
+      "license": "MIT",
+      "keywords": ["documentation", "obsidian", "vault", "codebase-analysis", "diataxis"]
+    }
+  ]
+}

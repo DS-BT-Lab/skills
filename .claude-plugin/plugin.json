@@ -1,0 +1,13 @@
+{
+  "name": "bt-lab",
+  "description": "AI skills by BT Lab — documentation generation, codebase analysis, and vault maintenance",
+  "version": "1.0.0",
+  "author": {
+    "name": "BT Lab",
+    "email": "dominik.visek@digital.cz"
+  },
+  "repository": "https://github.com/DS-BT-Labs/skills",
+  "homepage": "https://github.com/DS-BT-Labs/skills",
+  "license": "MIT",
+  "keywords": ["documentation", "obsidian", "vault", "codebase-analysis", "diataxis"]
+}
