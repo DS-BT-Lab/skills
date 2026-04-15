@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "bt-lab",
-      "source": ".",
+      "source": "./",
       "description": "Documentation generation, codebase analysis, and vault maintenance for Claude Code",
       "version": "1.0.0",
       "author": { "name": "BT Lab" },
